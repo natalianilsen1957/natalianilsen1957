@@ -1,8 +1,8 @@
 # Автоматизированное тестирование
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Aditya Vikram Singh Banner](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 
-https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif
+
 Обычно после написания кода его проверяют. Если речь о какой-то функции, то можно написать простой
 скрипт, который будет вызывать ее с разными аргументами, и смотреть, что она вернет. Если вы сделали
 сайт или приложение, то вы открываете его, жмете ссылки и кнопки, проверяете что все отображается
