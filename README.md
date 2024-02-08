@@ -1,5 +1,5 @@
-Heather 
+Heather
 
-about me 
+about me
 
 languages and tools
