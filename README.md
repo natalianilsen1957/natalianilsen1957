@@ -1,4 +1,4 @@
-Heather
+![Heather]
 
 about me
 
