@@ -2,7 +2,7 @@ https://github.com/morphIsmail
 
 ![](<https://github.com/natalianilsen1957/natalianilsen1957/blob/main/assets/text%20(1).gif>)
 
-##Junior software tester##
+## **Junior software tester**
 
 I am a passionate QA software with a background in as a test engineer at Komsomolsk-on-Amur Aircraft Plant (KnAAPO) and was engaged in troubleshooting avionics on board aircraft and making recommendations for improvement.
 
