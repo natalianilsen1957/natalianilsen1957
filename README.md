@@ -1,5 +1,5 @@
 
-![Header](https://github.com/natalianilsen1957/natalianilsen1957/blob/main/assets/test(1)%20.gif)
+![Header](https://github.com/natalianilsen1957/natalianilsen1957/blob/main/assets/text%20(1).gif)
 
 ## **Junior software tester**
 
