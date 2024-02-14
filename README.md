@@ -1,8 +1,10 @@
+https://github.com/morphIsmail
+
 ![Header](<https://github.com/natalianilsen1957/natalianilsen1957/blob/main/assets/text%20(1).gif>)
 
 ## I am a passionate QA software with a background in as a test engineer at Komsomolsk-on-Amur Aircraft Plant (KnAAPO) and was engaged in troubleshooting avionics on board aircraft and making recommendations for improvement.
 
-### languages and tools
+### Мой стек технологий
 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=47C5FB)
